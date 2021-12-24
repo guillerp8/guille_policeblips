@@ -1,24 +1,30 @@
-This is free and unencumbered software released into the public domain.
+License Zero Noncommercial Public License 1.0.0
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright: guillerp© 2021
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Source: https://github.com/guillerp8/guille_gangsv2
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+**This software comes as is, without any warranty at all. As far
+as the law allows, I will not be liable for any damages related
+to this software or this license, for any kind of legal claim.**
 
-For more information, please refer to <https://unlicense.org>
+As long as you meet the conditions below, you may do everything
+with this software that would otherwise infringe my copyright in
+it or any covered patent claim. Your permission covers a patent
+claim that I can license, or become able to license, if you would
+infringe it by using this software as of my latest contribution.
+
+1. You must ensure that everyone who gets a copy of this software
+   from you, in source code or any other form, also gets the
+   complete text of this license and the copyright and source
+   notices above.
+
+2. You must not make any legal claim against anyone for
+   infringing any patent claim they would infringe by using this
+   software alone, accusing this software, with or without
+   changes, alone or combined into a larger program.
+
+3. You must limit use of this software in any manner primarily
+   intended for or directed toward commercial advantage, you are 
+   not allowed to sell this code.
+
