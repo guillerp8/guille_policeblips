@@ -1,5 +1,4 @@
-# guille_policeblips
-# Discord: https://discord.gg/eBpmkW6e5j
+# guille_policeblips - Discord: https://discord.gg/eBpmkW6e5j
 A resource to add references with the jobs selected in the config working with Onesync.
 
 ### Requirements
