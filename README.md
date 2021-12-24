@@ -24,4 +24,4 @@ Update your artifacts because the resource uses lua 5.4 .
 
 # Credits
 
-- Readme inspired by Bombay (Entity Evolution)
+- Video made by Gloss.
